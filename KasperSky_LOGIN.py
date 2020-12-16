@@ -1,3 +1,4 @@
+#author Karroch
 import requests
 from bs4 import BeautifulSoup as scraper
 import json
